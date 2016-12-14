@@ -1,7 +1,7 @@
 package com.example.joaquin.events;
 
 /**
- * Created by cfgs2-1 on 04/10/2016.
+ * Created by Joaquin on 04/10/2016.
  */
 
 public class MyLog {
